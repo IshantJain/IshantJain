@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **Data Analytics, Web Development and Marketing. I'd be delighted to assist you. This is something I like discussing!**
 
-- 📫 How to reach me **<a href="ishantaunchaliya9@gmail.com">EMAIL</a> OR <a href="https://www.linkedin.com/in/ishant-aunchaliya/">LINKEDIN</a>**
+- 📫 How to reach me **<a href="ishantaunchaliya9@gmail.com">EMAIL</a> OR <a href="https://www.linkedin.com/in/ishant-aunchaliya/">LINKEDIN</a>.**
+
+- 📄 Know about my experiences **<a href="https://github.com/IshantJain/IshantJain/blob/main/Ishant_Aunchaliya_Resume.pdf">RESUME</a>.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
